@@ -34,3 +34,14 @@ represent it in the diagram the way we do?
 
 The changes from both branches are automatically merged together.  The new 
 commit has 2 parents.
+
+
+REFLECT: What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Automatic merging works well.  Doing the manual merge, I broke the game.  I 
+committed before testing, and the class hasn't taught us how to undo a merge.  
+I don't know how to go back and try again.  I haven't learned java script yet, 
+and I don't know how to debug a website yet, so I'm not getting any error 
+messages. I just have a blank webpage.  I hope the class doesn't assume all 
+went well.
