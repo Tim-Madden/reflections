@@ -28,3 +28,9 @@ REFLECT: How do the diagrams help you visualize the branch structure?
 
 They show where branches occurred and which commits are reachable by any head.
 
+
+REFLECT: What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+The changes from both branches are automatically merged together.  The new 
+commit has 2 parents.
