@@ -39,9 +39,15 @@ commit has 2 parents.
 REFLECT: What are the pros and cons of Git’s automatic merging vs. always doing 
 merges manually?
 
-Automatic merging works well.  Doing the manual merge, I broke the game.  I 
-committed before testing, and the class hasn't taught us how to undo a merge.  
-I don't know how to go back and try again.  I haven't learned java script yet, 
-and I don't know how to debug a website yet, so I'm not getting any error 
-messages. I just have a blank webpage.  I hope the class doesn't assume all 
-went well.
+Automatic merging works well.  Doing the manual merge, I broke the game.  
+
+The class didn't cover what to do if something goes wrong, but I found this:
+https://stackoverflow.com/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet
+    * git reset --hard commit_sha
+    * git reset --hard HEAD~1
+
+When I looked at the merge conflict file again there were two conflicts and I 
+had only repaired one. I must have done something wrong earlier in the class to
+cause two conflicts.  Anyway I fixed the first one and guessed on the second 
+one.  It seems to be working now with easy mode having coins also.
+
