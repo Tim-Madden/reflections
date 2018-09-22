@@ -1,25 +1,35 @@
-REFLECT: When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your 
+work local?
   A remote repository could back up your repository in cases of hardware 
   malfunction or theft.  You might
   want to share with others.  Others might want to share with you.
 
 
-REFLECT: Why might you want to always pull changes manually rather than having 
+Why might you want to always pull changes manually rather than having 
 Git automatically stay up-to-date with your remote repository?
 
-I may not want to pull someone elses work without reviewing it.
+  I may not want to pull someone elses work without reviewing it.
 
 
-REFLECT: Describe the differences between forks, clones, and 
+Describe the differences between forks, clones, and 
 branches. When would you use one instead of another?
 
-I would fork someone elses work if they permitted me to copy and make changes to it.  I would clone a repository to bring it from GitHub to my PC.  I would branch to try out a major change or different mode.
+  I would fork someone elses work if they permitted me to copy and make changes 
+  to it.  I would clone a repository to bring it from GitHub to my PC.  I would 
+  branch to try out a major change or different mode.
 
-REFLECT: What is the benefit of having a copy of the last known state of the remote stored locally?
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
 
-(I copied this one from instructor) 
-If I am about to go without Internet access for a while, for example to work
-on a plane, I can update my local copy before I leave.  I can do this even
-if I'm not ready to merge those changes into my own branches yet.  Then if I
-want, I can perform the merge while offline, or I need to know what the
-remote version is at some point, I have an easy way to access it.
+  (I copied this one from instructor) 
+  If I am about to go without Internet access for a while, for example to work
+  on a plane, I can update my local copy before I leave.  I can do this even
+  if I'm not ready to merge those changes into my own branches yet.  Then if I
+  want, I can perform the merge while offline, or I need to know what the
+  remote version is at some point, I have an easy way to access it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I would use a shared drive and keep copies of dated files.  This would be 
+  easier to learn, but create more clutter.  Conflicts would not be handled
+  at all.
