@@ -3,8 +3,14 @@ REFLECT: When would you want to use a remote repository rather than keeping all 
   malfunction or theft.  You might
   want to share with others.  Others might want to share with you.
 
+
 REFLECT: Why might you want to always pull changes manually rather than having 
 Git automatically stay up-to-date with your remote repository?
 
 I may not want to pull someone elses work without reviewing it.
 
+
+REFLECT: Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+
+I would fork someone elses work if they permitted me to copy and make changes to it.  I would clone a repository to bring it from GitHub to my PC.  I would branch to try out a major change or different mode.
