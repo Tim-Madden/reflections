@@ -28,8 +28,13 @@ stored locally?
   want, I can perform the merge while offline, or I need to know what the
   remote version is at some point, I have an easy way to access it.
 
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
 
   I would use a shared drive and keep copies of dated files.  This would be 
   easier to learn, but create more clutter.  Conflicts would not be handled
   at all.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+  When you are doing something experimental, you might work in a branch.
